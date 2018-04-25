@@ -1,8 +1,11 @@
 # Json - JavaScript Object Notation
 
-* JSON: JavaScript Object Notation.
+* JSON stands for **J**ava**S**cript **O**bject **N**otation
+* JSON is a lightweight data-interchange format
 * JSON is a syntax for storing and exchanging data.
+* JSON is "self-describing" and easy to understand
 * JSON is text, written with JavaScript object notation.
+* JSON is language independent
 
 ### Learning web pages
 * http://www.json.org/
