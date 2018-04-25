@@ -5,7 +5,7 @@
 * JSON is a syntax for storing and exchanging data.
 * JSON is "self-describing" and easy to understand
 * JSON is text, written with JavaScript object notation.
-* JSON is language independent
+* JSON is language independent, JSON uses JavaScript syntax, but the JSON format is text only. Text can be read and used as a data format by any programming language.
 
 ### Learning web pages
 * http://www.json.org/
