@@ -17,7 +17,13 @@
 ### Tools
 * [Json Formatter](https://jsonformatter.curiousconcept.com)
 
+### JSON Syntax Rules
+JSON syntax is derived from JavaScript object notation syntax:
 
+* Data is in name/value pairs
+* Data is separated by commas
+* Curly braces hold objects
+* Square brackets hold arrays
 
 ### Curly Braces
 You can see that everything in this JSON shoe example is enclosed in a set of curly braces, indicating the whole thing can be treated as an object.
