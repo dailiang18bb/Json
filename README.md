@@ -36,7 +36,7 @@ Inside of the style object, we can find two nested values: One for categories, a
 
 Groups of values can be nested in this way, by using objects and arrays, and then you can place different data types inside of those containers.
 
-
+### Example on Android
     public class MainActivity extends Activity {
         public void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
